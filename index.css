@@ -1,8 +1,24 @@
 @import url('flexbox.css');
 @import url('utils.css');
+@import url('color.css');
+
+:root{
+    --padding-5 : 5px;
+    --padding-10 : 10px;
+    --padding-15 : 15px;
+    --margin-5 : 5px;
+    --margin-10 : 10px;
+    --margin-15 : 15px;
+    --radius : 10px;
+}
+
 
 body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+

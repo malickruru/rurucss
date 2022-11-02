@@ -1,3 +1,17 @@
 .click{
     cursor: pointer;
 }
+
+.ruru-input{
+    outline: none;
+    border: 1px gainsboro solid;
+    border-radius: var(--radius);
+    padding: var(--padding-5);
+}
+
+.ruru-btn{
+    border: 1px gainsboro solid;
+    border-radius: var(--radius);
+    padding: var(--padding-10); 
+    cursor: pointer;
+}
